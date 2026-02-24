@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: fugitive data archives
+title: fugitive digital archives
 email: irawoonline@proton.me
+instagram_username: irawoonline
 description: >- # this means to ignore newlines until "baseurl:"
   an ecosystem of digital experimental tools, guides, and resources to practicing data fugitivity.
 baseurl: "" # the subpath of your site, e.g. /blog
